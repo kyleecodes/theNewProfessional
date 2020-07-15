@@ -84,7 +84,7 @@
   .text {
 	background-color:grey;
 	color: white;
-	font-size: 160px;
+	font-size: 100px;
 	padding: 16px 32px;
   }
 
@@ -94,6 +94,7 @@
 
   a:hover {
 	font-size: 125%;
+	padding: 8px 16px;
   }
 
   @media (max-width: 1025px) {
@@ -105,7 +106,7 @@
 		opacity: 10;
 	  }
 	.text {
-		font-size: 30px;
+		font-size: 40px;
 	  }
 }
 
